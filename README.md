@@ -20,7 +20,6 @@ You can try the website live here: [Pumpkin Cinema Website](https://pumpkincinem
 ## User Interface Preview
 *Home Page 1*
 <img width="1470" alt="Screenshot 2025-02-04 at 19 47 23" src="https://github.com/user-attachments/assets/45c8df14-2905-433e-9f4c-2fcb1df37091" />
-*Home Page 1*
 
 *Home Page 2*
 <img width="1467" alt="Screenshot 2025-02-04 at 19 47 32" src="https://github.com/user-attachments/assets/a610c141-9d7a-477e-893a-d13532293635" />
