@@ -1,6 +1,7 @@
 # Pumpkin Cinema Website
 
-Welcome to the Pumpkin Cinema website! This project features a front-end platform that provides users with a seamless experience at the cinema.
+The Pumpkin Cinema website is a front-end project designed to provide an easy and enjoyable experience for visitors. The aim is to create a smooth online platform for browsing movies, booking tickets, and exploring the cinema's menu, all while offering a cozy atmosphere. This project showcases responsive design, interactive features, and easy navigation to improve user experience.
+
 You can try the website live here: [Pumpkin Cinema Website](https://pumpkincinema.github.io/PumpkinCinema/)
 
 ## Features
